@@ -60,7 +60,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://luolinlin1201.github.io/Im00_im00/"         
+            --baseURL "${{ steps.pages.outputs.https://luolinlin1201.github.io/Im00_im00/ }}/"      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
