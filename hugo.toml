@@ -2,4 +2,3 @@ baseURL = 'https://luolinlin1201.github.io/Im00_im00/'
 languageCode = 'en-us'
 title = "00's blog"
 theme = 'ananke'
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
