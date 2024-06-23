@@ -1,6 +1,6 @@
 +++
 title = 'Hi! Welcome to my website!'
-featured_image: '/images/Pope-Edouard-de-Beaumont-1844.jpg'
+featured_image: '/content/posts/my first post/DSCF2228.JPG'
 date = 2024-05-25T20:49:47+02:00
 draft = false
 +++
