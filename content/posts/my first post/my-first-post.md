@@ -1,9 +1,7 @@
 +++
-date = 2024-05-25T20:49:47+02:00
-description: "The Grand Hall"
-featured_image: "/images/DSCF4083.JPG"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+title = 'My First Post'
+date = 2024-01-14T07:07:07+01:00
+draft = false
 +++
 ## Introduction
 
