@@ -4,7 +4,6 @@ description: "The Grand Hall"
 featured_image: "/images/DSCF4083.JPG"
 tags: ["scene"]
 title: "Chapter I: The Grand Hall"
-draft = false
 +++
 ## Introduction
 
