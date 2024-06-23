@@ -1,7 +1,9 @@
 +++
-title = 'Hi! Welcome to my website!'
-featured_image: '/images/DSCF4083.JPG'
 date = 2024-05-25T20:49:47+02:00
+description: "The Grand Hall"
+featured_image: "/images/DSCF4083.JPG"
+tags: ["scene"]
+title: "Chapter I: The Grand Hall"
 draft = false
 +++
 ## Introduction
