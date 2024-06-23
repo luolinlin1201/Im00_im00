@@ -1,9 +1,11 @@
-+++
-title = 'My First Post'
-date = 2024-01-14T07:07:07+01:00
-featured_image: '/images/DSCF4083.jpg'
-draft = false
-+++
+---
+date: 2017-04-14T11:25:05-04:00
+description: "Esmeralda"
+featured_image: "/images/DSCF4083.jpg"
+tags: []
+title: "Chapter VI: Esmeralda"
+disable_share: false
+---
 ## Introduction
 
 I will graduate in July and I live with my cat in Amsterdam;)
