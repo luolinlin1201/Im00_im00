@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "Esmeralda"
-featured_image: "/snowy-forest-background-y02hhc4gc3m5gtdj.jpg"
+featured_image: "/esmeralda.jpg"
 tags: []
 title: "Chapter VI: Esmeralda"
 disable_share: false
