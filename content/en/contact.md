@@ -4,6 +4,7 @@ featured_image: ''
 omit_header_text: true
 type: page
 menu: main
+/images/Linlin.jpg
 ---
 
 If you would like to reach out to me, please use one of the following methods:
@@ -20,4 +21,4 @@ Feel free to call me at:
 
 ## Social Media
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/linlinluo/).
+Follow me on [LinkedIn](https://www.linkedin.com/in/linlinluo/)
