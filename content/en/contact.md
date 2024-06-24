@@ -4,7 +4,7 @@ featured_image: ''
 omit_header_text: true
 type: page
 menu: main
-featured_image: "/images/Linlin.jpg"
+featured_image: "/images/sea.png"
 ---
 
 If you would like to reach out to me, please use one of the following methods:
