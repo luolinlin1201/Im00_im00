@@ -1,7 +1,7 @@
 ---
 title: "Photo Gallery"
 description: "Here are images took by Linlin:) Free for downloading!"
-featured_image: '/images/DSF0052.JPG'
+featured_image: '/images/DSCF0052.JPG'
 menu:
   main:
     weight: 1
