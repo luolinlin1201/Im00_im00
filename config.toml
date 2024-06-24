@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = "00's blog"
 theme = 'ananke'
 
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
 [languages]
   [languages.en]
     title = "Linlin's Blog"
@@ -10,7 +16,7 @@ theme = 'ananke'
     contentDir = "content/EN"
 
   [languages.cn]
-    title = "Linlin's Blog CN"
+    title = "琳琳的博客"
     weight = 2
     contentDir = "content/CN"
 
