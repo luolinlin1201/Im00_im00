@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = "00's blog"
 theme = 'ananke'
 
+[[params.linlin_LinkedIn]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/linlinluo/"
