@@ -1,10 +1,12 @@
-+++
-title = 'Hi! Welcome to my website!'
-date = 2024-05-25T20:49:47+02:00
-draft = false
-+++
+---
+date: 2024-06-14T11:25:05-04:00
+description: "琳琳是谁？"
+featured_image: "/images/Linlin.jpg"
+title: "琳琳是谁？"
+disable_share: false
+---
 ## Introduction
 
-I will graduate in July and I live with my cat in Amsterdam;)
+我今年七月要毕业啦！我和我亲爱的猫咪钱多多一起住在阿姆斯特丹！
 
 ## This is ME!
