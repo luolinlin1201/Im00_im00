@@ -6,4 +6,4 @@ tags: [Photo Gallery]
 title: "Keukenhof Photo Gallery: Spring's Vitality"
 ---
 
-![Keukenhof Spring](/images/tulip.png)
+![Tulip](/images/tulip.png)
