@@ -3,3 +3,4 @@ title: "Posts"
 date: 2024-06-02T12:00:00-05:00
 ---
 
+I am curious about this
