@@ -20,5 +20,4 @@ Feel free to call me at:
 
 ## Social Media
 
-Follow me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/linlinluo/)
+Follow me on [LinkedIn](https://www.linkedin.com/in/linlinluo/).
