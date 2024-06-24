@@ -3,6 +3,17 @@ languageCode = 'en-us'
 title = "00's blog"
 theme = 'ananke'
 
+[languages]
+  [languages.en]
+    title = "Linlin's Blog"
+    weight = 1
+    contentDir = "content/EN"
+
+  [languages.cn]
+    title = "Linlin's Blog CN"
+    weight = 2
+    contentDir = "content/CN"
+
 [[params.linlin_LinkedIn]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/linlinluo/"
