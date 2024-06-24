@@ -2,13 +2,11 @@
 title: Contact
 featured_image: ''
 omit_header_text: true
-description: We'd love to hear from you
+description: If you would like to reach out to me;
 type: page
 menu: main
 
 ---
-
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="https://example.com"  >}}
+If you would like to reach out to me:
+Please send email to linlinluo1201@gmail.com
+Or call me : +31 0644783846
