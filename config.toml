@@ -3,9 +3,9 @@ languageCode = 'en-us'
 title = "00's blog"
 theme = 'ananke'
 
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -17,9 +17,10 @@ enableRobotsTXT = true
 
   [languages.cn]
     title = "琳琳的博客"
-    weight = 2
+    weight = 1
     contentDir = "content/CN"
 
-[[params.linlin_LinkedIn]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/linlinluo/"
+[params]
+  [params.linlin_LinkedIn]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/linlinluo/"
