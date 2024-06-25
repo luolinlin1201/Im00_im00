@@ -32,3 +32,9 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/linlinluo/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
