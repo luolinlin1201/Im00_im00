@@ -5,23 +5,21 @@ featured_image: "/images/Linlin.jpg"
 tags: ["introduction"]
 title: "Who is Linlin? Why did I build this website?"
 ---
-Hi, my name is Linlin Luo. I moved to Amsterdam three years ago. It was an unexpected decision, much like my choice to take a data science minor at VU. Now, as I stand at the turning point of my life—graduation—I feel a strong desire to use what I've learned at university to share my story. Maybe it will inspire you too.
-
-[Tulip](/images/tulip.png) 
+Hey, I am Linlin Luo from China. Three years ago, I moved to Amsterdam for my studies. One day, I came across an experienced software engineer showcasing his personal website on social media. Despite having no prior experience with HTML, I decided to give it a try. Taking on challenging tasks gives me a sense of accomplishment. I believe life is an adventure, and the joy lies in tackling challenges and trying new things.
 
 ## 2002 - 2020, Shantou, China
 
-I grew up in a seaside city near the equator, a place that is sunny year-round and incredibly beautiful. When COVID-19 broke out, it was my last year of high school. Thanks to my great analytical abilities, I decided to study Biology.
+I grew up in a coastal city near the equator, where the weather is sunny and pleasant all year round. When COVID-19 broke out during my final year of high school, I witnessed the massive loss of life worldwide. Believing that studying biology could help prevent such tragedies in the future, I decided to pursue biology.
 
 ## 2021, Harbin, China
 
-I went to the northernmost part of China to study. After the first semester of Biology, I realized that words are more powerful than medicines. Words influence people profoundly. That's why I decided to switch to Communication Science.
+I moved to Harbin, a city 3000 kilometers north of where I grew up, to study. Still in the midst of the COVID-19 outbreak, I completed my first semester in biology and realized that language has a more profound impact than medicine. Language's influence on people is deep and immeasurable. This realization led me to transfer to communication studies. I hope to make the world a better place through this field.
 
 ## 2021-2024, Amsterdam, Netherlands
 
-To be honest, it was very difficult to adapt to a new environment and education system.
+Adapting to a new environment and education system was challenging, to be honest. However, my three years of study and work in Amsterdam have helped me grow rapidly. For more details, please click on the "Education" and "Work Experience" tabs at the bottom to view my experiences.
 
 ## 2024 - , ?
 
-Recently, I sat down to reflect and found that life is full of coincidences and surprises. That’s what makes it so wonderful. A coin has two sides, and sometimes, failure is just a push towards a better-suited path. I am ready for my next journey!
+Recently, I sat down and reflected, realizing that life is full of coincidences and surprises. This is the beauty of life. Everything has two sides, and God always guides you along your unique path, even if it means stumbling along the way. I'm ready for my next adventure!
 
