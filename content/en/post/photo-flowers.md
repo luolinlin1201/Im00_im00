@@ -6,4 +6,4 @@ tags: [Photo Gallery]
 title: "Keukenhof Photo Gallery: Spring's Vitality"
 ---
 I am Linlin.
-![Tulip](/static/images/DSCF3841.JPG)
+/static/images/DSCF3841.JPG
