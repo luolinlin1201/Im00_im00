@@ -5,6 +5,7 @@ featured_image: "/images/tulip.png"
 tags: [Photo Gallery]
 title: "Keukenhof Photo Gallery: Spring's Vitality"
 ---
+<!--more--> 
 Please be patient, as the photos are high-resolution and may take some time to load. Thank you for your understanding!
 
 ![Tulip](/images/DSCF3931.JPG)
