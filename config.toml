@@ -15,11 +15,13 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.cn]
+  [languages.zh]
     title = "琳琳的博客"
-    weight = 1
-    contentDir = "content/cn"
-
+    weight = 2
+    contentDir = "content/zh"
+    languageName = "简体中文"
+    languageCode = "zh-CN"
+    
 [params]
   text_color = ""
   author = ""
