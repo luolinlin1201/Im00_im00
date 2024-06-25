@@ -7,7 +7,7 @@ title: "Who is Linlin? Why did I build this website?"
 ---
 Hi, my name is Linlin Luo. I moved to Amsterdam three years ago. It was an unexpected decision, much like my choice to take a data science minor at VU. Now, as I stand at the turning point of my life—graduation—I feel a strong desire to use what I've learned at university to share my story. Maybe it will inspire you too.
 
-![Tulip](/images/tulip.png "Tulip") 
+[Tulip](/images/tulip.png) 
 
 ## 2002 - 2020, Shantou, China
 
