@@ -5,4 +5,4 @@ featured_image: "/images/tulip.png"
 tags: [Photo Gallery]
 title: "Keukenhof Photo Gallery: Spring's Vitality"
 ---
-![Placeholder](/images/tulip.png)
+![Placeholder](/tulip.png)
