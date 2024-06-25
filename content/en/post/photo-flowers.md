@@ -6,5 +6,8 @@ tags: [Photo Gallery]
 title: "Keukenhof Photo Gallery: Spring's Vitality"
 ---
 I am Linlin.
-pictures:
-- /static/images/DSCF3841.JPG
+{{< img src="tulip.png"
+        align="center"
+        alt="Henry Theme Mascot"
+        caption="Henry"
+>}}
