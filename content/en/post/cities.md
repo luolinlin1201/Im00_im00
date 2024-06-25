@@ -20,6 +20,6 @@ Please be patient, as the photos are high-resolution and may take some time to l
 ![Zadar](/images/DSCF4078.JPG)
 ![Zadar](/images/DSCF4083.JPG)
 ![Harbin](/images/DSCF0052.JPG)
-
+<!--more--> 
 ## Hey! Here is the answer!
 The Hague (1-2), Amsterdam (3), Milan (4), Venice (5-9), Zadar (10-13), Harbin (14)
