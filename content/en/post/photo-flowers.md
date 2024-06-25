@@ -5,11 +5,5 @@ featured_image: "/images/tulip.png"
 tags: [Photo Gallery]
 title: "Keukenhof Photo Gallery: Spring's Vitality"
 ---
-I am Linlin.
----
-{{< img src="tulip.png"
-        align="center"
-        alt="Henry Theme Mascot"
-        caption="Henry"
->}}
----
+![Placeholder](/images/tulip.png)
+
