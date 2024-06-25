@@ -1,27 +1,25 @@
 ---
 date: 2024-06-20T10:58:08-04:00
-description: "A brief introduction about my personal experience."
+description: "简短的自我介绍"
 featured_image: "/images/Linlin.jpg"
 tags: ["introduction"]
-title: "Who is Linlin? Why did I build this website?"
+title: "我是谁？我为什么要建立这个网址？"
 ---
-Hi, my name is Linlin Luo. I moved to Amsterdam three years ago. It was an unexpected decision, much like my choice to take a data science minor at VU. Now, as I stand at the turning point of my life—graduation—I feel a strong desire to use what I've learned at university to share my story. Maybe it will inspire you too.
+你好，我是罗琳琳。我来自中国，三年前因为学习搬到阿姆斯特丹。某一天，我无意中在社交媒体上看到一位很有经验的软件工程师展示他的个人网站。虽然我在这之前没有用过html，我还是决定尝试一下。我总是想要尝试那些很有挑战性的，很困难的任务，完成这些任务总会给我很大的成就感。我相信生命是一场冒险，人生的乐趣就在于挑战和尝试。我将在2024年7月毕业，在这个人生的转折点，我感到我必须做些什么来总结我的学生生涯。我相信这个网站的内容和创建网站这件事本身，就是最好的答案。
 
-[Tulip](/images/tulip.png) 
+## 2002 - 2020，中国汕头
 
-## 2002 - 2020, Shantou, China
+我在赤道附近的一个海滨城市长大，那里终年阳光明媚，景色宜人。COVID-19 爆发时，正是我高中的最后一年。我看到世界上有很多很多的人因为COVID-19死去，认为学习生物可以在未来避免惨剧再次发生，我决定学习生物。
 
-I grew up in a seaside city near the equator, a place that is sunny year-round and incredibly beautiful. When COVID-19 broke out, it was my last year of high school. Thanks to my great analytical abilities, I decided to study Biology.
+## 2021，中国哈尔滨
 
-## 2021, Harbin, China
+我去了中国的最北端，离我长大的3000公里远的地方学习。当时还处于COVID-19 爆发阶段，我在完成生物学的第一学期后，我意识到语言比药物更有力量。语言对人的影响是深远的，难以估计的。这就是我决定转学传播学的原因。我希望这个世界能够成为一个更好的世界。
 
-I went to the northernmost part of China to study. After the first semester of Biology, I realized that words are more powerful than medicines. Words influence people profoundly. That's why I decided to switch to Communication Science.
+## 2021-2024，荷兰阿姆斯特丹
 
-## 2021-2024, Amsterdam, Netherlands
-
-To be honest, it was very difficult to adapt to a new environment and education system.
+老实说，适应新的环境和教育体系非常困难。具体内容请点击最下方的“教育”标签，查看我的所有教育经历。
 
 ## 2024 - , ?
 
-Recently, I sat down to reflect and found that life is full of coincidences and surprises. That’s what makes it so wonderful. A coin has two sides, and sometimes, failure is just a push towards a better-suited path. I am ready for my next journey!
+最近，我坐下，反思，发现生活中充满了巧合和惊喜。这就是生活的美妙之处。凡事都有两面，上帝总是会让你跌跌撞撞地走在属于你的路上。我已经准备好下一段冒险了！
 
