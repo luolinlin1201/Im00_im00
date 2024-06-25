@@ -1,7 +1,15 @@
 ---
 date: 2024-06-18T11:13:32-04:00
-description: "Here is about my education story"
+description: "预料之外的旅程往往会带来意料之外的收获"
 featured_image: "/images/UvA.png"
-tags: [Education & Work]
-title: "My UvA Journey"
+tags: [教育和工作]
+title: "我的阿姆斯特丹大学之旅"
 ---
+从2021到2024年，我完成了传播学学士的学习，并且在阿姆斯特丹自由大学完成了商业分析与数据科学的辅修。大学三年间我有一年半都在全职工作，若想了解更多关于工作的内容，请查阅‘xxx’
+<!--more--> 
+## 第一年
+
+
+## 第二年
+
+## 第三年
