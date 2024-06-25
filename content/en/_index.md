@@ -1,7 +1,7 @@
 ---
 title: "Linlin's Blog"
 
-description: "Hey! Welcome to my website;) Explore this website to know more about me!"
+description: "Life is a unique journey! Welcome to my personal website;)"
 
 theme_version: '2.8.2'
 cascade:
