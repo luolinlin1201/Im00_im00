@@ -1,15 +1,24 @@
 ---
-title: Contact
+title: 联系
 featured_image: ''
 omit_header_text: true
-description: Laissez-nous un message!
 type: page
 menu: main
-
+featured_image: "/images/tulip.png"
 ---
 
-Ceci est la page de contact en Français.
+如果你想要联系我，请通过以下方式：
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
+## 邮件
 
-{{< form-contact action="https://example.com"  >}}
+请向以下邮箱地址发送邮件:  
+[linlinluo1201@gmail.com](mailto:linlinluo1201@gmail.com)
+
+## 电话
+
+欢迎致电：
+[+31 0644783846](tel:+310644783846)
+
+## 社交软件
+
+关注我的 [LinkedIn](https://www.linkedin.com/in/linlinluo/)
