@@ -3,7 +3,7 @@ date: 2024-06-20T10:58:08-04:00
 description: "A brief introduction about my personal experience."
 featured_image: "/images/Linlin.jpg"
 tags: ["introduction"]
-title: "Who is Linlin? Why did I build this website?"
+title: "Who am I? Why did I build this website?"
 ---
 Hey, I am Linlin Luo from China. Three years ago, I moved to Amsterdam for my studies. One day, I came across an experienced software engineer showcasing his personal website on social media. Despite having no prior experience with HTML, I decided to give it a try. Taking on challenging tasks gives me a sense of accomplishment. I believe life is an adventure, and the joy lies in tackling challenges and trying new things.
 
