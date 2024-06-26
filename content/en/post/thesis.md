@@ -1,7 +1,7 @@
 ---
 date: 2024-06-15T11:13:32-04:00
 description: "The Myth of Color: How Low-Saturated Packaging Can Entice You to Make a Purchase?"
-featured_image: "can.png"
+featured_image: "/images/can.png"
 tags: [Education & Work]
 title: "Thesis (Marketing): The Impact of Pale Packaging on Soda Choices"
 ---
