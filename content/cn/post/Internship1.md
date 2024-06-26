@@ -1,21 +1,28 @@
 ---
 date: 2024-06-16T11:13:32-04:00
-description: "It was so fascinating working in a startup finance department and acting as a bridge between teams!"
+description: "在一家初创公司的财务部门工作，充当团队之间的桥梁，是一件非常有趣的事情！"
 featured_image: "Intern1.png"
-tags: [Education & Work]
-title: "Internship: Business Operation Assistant at Hanshow"
+tags: [教育和工作经历]
+title: "实习：汉朔（Hanshow）商业运营助理"
 ---
-During my internship as a Business Operations Assistant in the Finance Department from February to June 2023, I had the opportunity to immerse myself in a dynamic role that involved a range of responsibilities crucial to the department’s functioning. This experience not only provided me with valuable insights into corporate finance but also allowed me to apply my skills in a practical setting.
+在2023年2月至6月期间，我在汉绍（Hanshow）的财务部门担任商业运营助理实习生，这段经历让我有机会沉浸在一个充满活力的角色中，负责部门运作中至关重要的一系列职责。这段经历不仅为我提供了对企业财务的宝贵见解，还让我有机会在实际工作中应用我的技能。
 
-One of the core aspects of my role was ensuring compliance by meticulously checking agreements and orders with clients. This involved careful attention to detail and a thorough understanding of contractual obligations. By verifying the accuracy and completeness of these documents, I contributed to maintaining the integrity of our client relationships and operations.
+我角色的核心之一是通过仔细检查与客户的协议和订单，确保合规性。这涉及到对细节的注意和对合同义务的深入理解。通过验证这些文件的准确性和完整性，我为维护我们与客户关系的诚信作出了贡献。
+<!--more-->
+此外，我还担任销售备份，通过准备演示文稿、直接与客户沟通，并在ERP（企业资源计划）系统中组织关键数据，支持销售团队。这种多方面的责任需要有效的沟通技巧和高效管理信息的能力。通过这些工作，我帮助确保所有利益相关者都得到充分的信息，并确保销售流程保持高效和顺畅。
 
-Additionally, I served as a Sales Backup, where I supported the sales team by preparing presentation slides, communicating directly with clients, and organizing critical data in the ERP (Enterprise Resource Planning) system. This multifaceted responsibility required effective communication skills and the ability to manage information efficiently. By doing so, I helped ensure that all stakeholders were well-informed and that the sales process remained streamlined and effective.
+我角色中的另一个重要部分涉及数据分析和报告。利用Excel，我使用VLOOKUP、数据透视表和各种公式创建了详细的每周业务绩效报告。这些报告基于包含超过1万行数据的数据集，突出显示关键指标和趋势。这种分析工作不仅提升了我的Excel技能，还使我能够为财务团队提供可操作的见解，促进战略决策过程。
 
-A significant part of my role also involved data analysis and reporting. Using Excel, I created detailed weekly business performance reports utilizing tools such as VLOOKUP, pivot tables, and various formulas. These reports were based on datasets containing over 10,000 rows of data, highlighting key metrics and trends. This analytical work not only sharpened my proficiency in Excel but also enabled me to provide actionable insights to the finance team, aiding in strategic decision-making processes.
+此外，我还积极贡献于提升部门的运营效率。通过识别改进的领域并提出流程优化建议，我帮助简化工作流程，减少冗余，从而提高了整体生产力。
 
-Moreover, I actively contributed to enhancing operational efficiency within the department. By identifying areas for improvement and suggesting process optimizations, I helped streamline workflows and reduce redundancy, ultimately contributing to overall productivity.
+回顾我的实习经历，我感到非常感激能有机会在一个允许我在现实环境中应用学术知识的角色中工作。我在确保合规性、支持销售活动和进行数据分析方面所获得的实践经验是非常宝贵的。这加深了我对企业财务运营的理解，并坚定了我在这一领域追求职业生涯的兴趣。
 
-Reflecting on my internship experience, I am grateful for the opportunity to have worked in a role that allowed me to apply my academic knowledge in a real-world context. The hands-on experience I gained in ensuring compliance, supporting sales activities, and conducting data analysis has been invaluable. It has reinforced my passion for finance and operations, providing a solid foundation for my future career aspirations.
+总之，我在汉朔（Hanshow）财务部门担任商业运营助理的实习经历是充实而富有教育意义的。它为我提供了实际技能，深化了我对企业财务运作的理解，并确认了我追求这一领域职业生涯的兴趣。我对未来在商业运营领域的个人和职业成长充满期待。
 
-In conclusion, my internship as a Business Operations Assistant in the Finance Department was a fulfilling and educational experience. It equipped me with practical skills, deepened my understanding of corporate finance operations, and confirmed my interest in pursuing a career in this field. I am excited to build upon this foundation as I continue to grow both personally and professionally in the world of business operations.
+
+
+
+
+
+
 
