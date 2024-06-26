@@ -5,8 +5,6 @@ featured_image: "/images/AI.png"
 tags: [Education & Work]
 title: "Internship: Product Proposition Intern at Versuni (Philips DA)"
 ---
-## Embarking on a Journey: My Internship Experience at Versuni (Philips DA)
-
 My internship at Versuni (Philips DA) from August 2023 to May 2024 was an exhilarating journey filled with challenges, growth opportunities, and impactful projects within the Product Management team. During this period, I had the privilege to delve into various aspects of product management, marketing strategy, and user experience improvement, contributing to significant milestones and learning invaluable lessons along the way.
 <!--more-->
 ## Driving Sales Excellence and Market Understanding
