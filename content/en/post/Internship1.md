@@ -6,7 +6,7 @@ tags: [Education & Work]
 title: "Internship: Business Operation Assistant at Hanshow"
 ---
 During my internship as a Business Operations Assistant in the Finance Department from February to June 2023, I had the opportunity to immerse myself in a dynamic role that involved a range of responsibilities crucial to the department’s functioning. This experience not only provided me with valuable insights into corporate finance but also allowed me to apply my skills in a practical setting.
-
+<!--more-->
 One of the core aspects of my role was ensuring compliance by meticulously checking agreements and orders with clients. This involved careful attention to detail and a thorough understanding of contractual obligations. By verifying the accuracy and completeness of these documents, I contributed to maintaining the integrity of our client relationships and operations.
 
 Additionally, I served as a Sales Backup, where I supported the sales team by preparing presentation slides, communicating directly with clients, and organizing critical data in the ERP (Enterprise Resource Planning) system. This multifaceted responsibility required effective communication skills and the ability to manage information efficiently. By doing so, I helped ensure that all stakeholders were well-informed and that the sales process remained streamlined and effective.
