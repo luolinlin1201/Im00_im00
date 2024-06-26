@@ -23,6 +23,6 @@ This study aims to delve into the authenticity of green marketing strategies and
 The research findings highlight the extent of falsehood in green marketing, far exceeding our initial expectations. I hope that in the future, governments and relevant organizations will enact policies to regulate green marketing, ensuring that conscientious consumers can purchase genuinely eco-friendly and sustainable products.
 
 ## Personal Motivation
-I have a strong sense of social responsibility and a deep-seated environmental awareness from an early age. I have observed an increasing number of brands using brown packaging paper and claiming sustainability, but how can we verify their authenticity? As an advocate for green and sustainable consumption practices, I strive to ensure that the products I purchase genuinely meet environmental standards.
+I have a strong sense of social responsibility and a deep-seated environmental awareness from an early age. I have observed an increasing number of brands using brown packaging and claiming sustainability, but how can we verify their authenticity? As an advocate for green and sustainable consumption practices, I strive to ensure that the products I purchase genuinely meet environmental standards.
 
 Through this research, I have gained a deeper understanding of greenwashing behaviors by brands and influencers, and I hope this study will positively impact society and others.
