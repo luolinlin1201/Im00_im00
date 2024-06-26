@@ -1,7 +1,7 @@
 ---
 date: 2024-06-16T11:13:32-04:00
 description: "It was so fascinating working in a startup finance department and acting as a bridge between teams!"
-featured_image: "Intern1.png"
+featured_image: "/images/Intern1.png"
 tags: [Education & Work]
 title: "Internship: Business Operation Assistant at Hanshow"
 ---
