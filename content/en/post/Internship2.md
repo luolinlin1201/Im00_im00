@@ -1,7 +1,7 @@
 ---
 date: 2024-06-17T11:13:32-04:00
 description: "How to translate business needs into actionable tasks?"
-featured_image: "/images/can.png"
+featured_image: "/images/AI.png"
 tags: [Education & Work]
 title: "Internship: Product Proposition Intern at Versuni (Philips DA)"
 ---
