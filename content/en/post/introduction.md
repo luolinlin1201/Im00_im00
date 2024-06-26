@@ -1,7 +1,7 @@
 ---
 date: 2024-06-26T10:58:08-04:00
 description: "A brief introduction about my personal experience."
-featured_image: "/images/Linlin.jpg"
+featured_image: "/images/Linlin.png"
 tags: ["Education & Work"]
 title: "Who am I? Why did I build this website?"
 ---
