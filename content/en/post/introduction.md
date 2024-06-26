@@ -2,7 +2,7 @@
 date: 2024-06-20T10:58:08-04:00
 description: "A brief introduction about my personal experience."
 featured_image: "/images/Linlin.jpg"
-tags: ["introduction"]
+tags: ["Education & Work"]
 title: "Who am I? Why did I build this website?"
 ---
 Hey, I am Linlin Luo from China. Three years ago, I moved to Amsterdam for my studies. One day, I came across an experienced software engineer showcasing his personal website on social media. Despite having no prior experience with HTML, I decided to give it a try. Taking on challenging tasks gives me a sense of accomplishment. I believe life is an adventure, and the joy lies in tackling challenges and trying new things.
@@ -17,7 +17,7 @@ I moved to Harbin, a city 3000 kilometers north of where I grew up, to study. St
 
 ## 2021-2024, Amsterdam, Netherlands
 
-Adapting to a new environment and education system was challenging, to be honest. However, my three years of study and work in Amsterdam have helped me grow rapidly. For more details, please click on the "Education" and "Work Experience" tabs at the bottom to view my experiences.
+Adapting to a new environment and education system was challenging, to be honest. However, my three years of study and work in Amsterdam have helped me grow rapidly. For more details, please click on the "Education & Work" tab at the bottom to view my experiences.
 
 ## 2024 - , ?
 
