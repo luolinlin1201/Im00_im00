@@ -1,7 +1,7 @@
 ---
 date: 2024-06-16T11:13:32-04:00
 description: "在一家初创公司的财务部门工作，充当团队之间的桥梁，是一件非常有趣的事情！"
-featured_image: "Intern1.png"
+featured_image: "/images/Intern1.png"
 tags: [教育和工作经历]
 title: "实习：汉朔（Hanshow）商业运营助理"
 ---
