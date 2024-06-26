@@ -1,37 +1,29 @@
 ---
 date: 2024-06-17T11:13:32-04:00
-description: "How to translate business needs into actionable tasks?"
+description: "如何将业务需求转化为可操作任务？"
 featured_image: "/images/AI.png"
-tags: [Education & Work]
-title: "Internship: Product Proposition Intern at Versuni (Philips DA)"
+tags: [教育和工作经历]
+title: "实习：Versuni（飞利浦家电）产品提案实习生"
 ---
-## Embarking on a Journey: My Internship Experience at Versuni (Philips DA)**
+## 踏上旅程：我在Versuni（飞利浦家电）的实习经历
+我在Versuni（飞利浦家电）的实习经历从2023年8月到2024年5月，是一段充满挑战、成长机会和在产品管理团队中产生重大影响的激动人心的旅程。在这段期间，我有幸深入探讨产品管理、市场策略和用户体验改进的各个方面，为公司的重要里程碑做出贡献，并在此过程中学到了宝贵的经验和教训。
 
-My internship at Versuni (Philips DA) from August 2023 to May 2024 was an exhilarating journey filled with challenges, growth opportunities, and impactful projects within the Product Management team. During this period, I had the privilege to delve into various aspects of product management, marketing strategy, and user experience improvement, contributing to significant milestones and learning invaluable lessons along the way.
+## 推动销售卓越和市场理解
+我承担的重要角色之一是内部销售代表，我深入了解市场需求。与类别领导紧密合作，我们的目标是实现2023年5亿欧元的销售目标。这涉及到供应链的战略协调、细致的市场分析以及与利益相关者的积极沟通，以确保各方的对齐和及时执行。
 
-## Driving Sales Excellence and Market Understanding**
+## 战略发展和路线图制定
+实习期间的一个重要亮点是我有机会为低端产品制定全面的战略、路线图和营销工具包。这需要结合分析能力、市场研究洞察力和创造性思维，以有效地定位我们的产品，并抓住市场机会。
 
-One of the pivotal roles I undertook was as an Internal Sales representative, where I immersed myself in understanding market needs deeply. Collaborating closely with the category leader, we aimed to achieve a €50 million sales target for 2023. This involved strategic coordination of supply chains, meticulous market analysis, and proactive engagement with stakeholders to ensure alignment and timely execution.
+## 利用数据进行明智决策
+数据分析在我的实习中起着至关重要的作用。我利用SAP分析和可视化关键绩效指标和销售数据，将复杂的数据集转化为简洁明了的见解。这涉及利用Excel和Power BI创建具有启发性的演示文稿，为战略讨论提供支持，并支持团队的决策过程。
 
-## Strategic Development and Roadmapping**
+## 推动创新：AI语音项目
+我主导的最激动人心的项目之一是飞利浦的AI语音项目。在短短4个月的紧张时间内，我独立与外部机构和市场合作，为30多种语言提供语音提示。这个项目不仅需要精湛的项目管理技能，还突显了在动态环境中有效的利益相关者沟通和灵活的问题解决能力的重要性。
 
-A major highlight of my internship was the opportunity to develop comprehensive strategies, roadmaps, and marketing toolkits for low-end products. This endeavor required a blend of analytical skills, market research insights, and creative thinking to effectively position our offerings and capture market opportunities.
+## 用户体验转型：危机管理
+在实习期间，我面临了改善飞利浦HomeRun应用用户体验的关键挑战。在短短4个月内，我领导了提高应用评分从1.3到4.4的努力。这包括通过面对面的访谈、分析用户评论和竞争对手的基准，以及与研发部门密切合作，迅速解决关键问题。引入评分弹窗机制显著增加了用户反馈，反映了我们对持续改进和用户中心设计的承诺。
 
-## Harnessing Data for Informed Decision-Making**
+## 反思与未来抱负
+回顾我的实习经历，这不仅仅是在产品管理和营销方面获得实践经验，更是一段深刻改变我对创新、数据驱动决策和提升用户体验热情的旅程。实践项目和责任使我获得了宝贵的技能和见解，这无疑将塑造我在科技和消费电子行业未来职业发展的方向。
 
-Data analysis played a crucial role throughout my internship. I utilized SAP to analyze and visualize KPI and sales data, transforming complex datasets into concise, actionable insights. This involved leveraging Excel and Power BI to create insightful presentations that informed strategic discussions and supported decision-making processes within the team.
-
-## Driving Innovation: AI Voice Project**
-
-One of the most exciting projects I spearheaded was the AI voice project at Versuni. Tasked with delivering voice alerts in over 30 languages within a tight timeline of 4 months, I collaborated independently with external agencies and markets. This project not only required meticulous project management skills but also highlighted the importance of effective stakeholder communication and agile problem-solving in a dynamic environment.
-
-## User Experience Transformation: Crisis Management**
-
-During the internship, I faced a critical challenge in improving the Philips HomeRun App's user experience. Within a span of 4 months, I led efforts to boost the app's rating from 1.3 to an impressive 4.4. This involved conducting extensive research through face-to-face interviews, analyzing user reviews and competitor benchmarks, and working closely with R&D to swiftly address critical issues. Introducing a rating pop-up mechanism significantly increased user feedback, reflecting our commitment to continuous improvement and user-centric design.
-
-## Reflections and Future Aspirations**
-
-Looking back, my internship at Versuni (Philips DA) was not just about gaining practical experience in product management and marketing—it was a transformative journey that solidified my passion for innovation, data-driven decision-making, and enhancing user experiences. The hands-on projects and responsibilities equipped me with invaluable skills and insights that will undoubtedly shape my future career aspirations in the tech and consumer electronics industry.
-
-In conclusion, my internship at Versuni was a remarkable chapter in my professional development, filled with achievements, challenges, and the satisfaction of contributing to meaningful projects. I am grateful for the opportunity to have been part of such a dynamic and innovative team, and I look forward to applying the knowledge and skills gained to make a positive impact in my future endeavors.
-
+总之，我的实习经历是我职业发展中一个显著的篇章，充满了成就、挑战和对参与有意义项目的满足感。我很感激能够成为如此充满活力和创新的团队的一部分，并期待应用所学知识和技能，为我的未来事业做出积极贡献。
