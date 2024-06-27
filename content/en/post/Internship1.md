@@ -1,21 +1,30 @@
 ---
-date: 2024-06-16T11:13:32-04:00
+date: 2024-06-20T11:13:32-04:00
 description: "It was so fascinating working in a startup finance department and acting as a bridge between teams!"
 featured_image: "/images/Intern1.png"
 tags: [Education & Work]
 title: "Internship: Business Operation Assistant at Hanshow"
 ---
-During my internship as a Business Operations Assistant in the Finance Department from February to June 2023, I had the opportunity to immerse myself in a dynamic role that involved a range of responsibilities crucial to the department’s functioning. This experience not only provided me with valuable insights into corporate finance but also allowed me to apply my skills in a practical setting.
-<!--more-->
-One of the core aspects of my role was ensuring compliance by meticulously checking agreements and orders with clients. This involved careful attention to detail and a thorough understanding of contractual obligations. By verifying the accuracy and completeness of these documents, I contributed to maintaining the integrity of our client relationships and operations.
+Keywords: Data analytics, Cross-departmental Communication, Startups, Fast-paced environment
 
-Additionally, I served as a Sales Backup, where I supported the sales team by preparing presentation slides, communicating directly with clients, and organizing critical data in the ERP (Enterprise Resource Planning) system. This multifaceted responsibility required effective communication skills and the ability to manage information efficiently. By doing so, I helped ensure that all stakeholders were well-informed and that the sales process remained streamlined and effective.
+During the period from February to June 2023, I worked as a Business Operations Assistant in the Finance Department at Hanshow. <!--more--> This experience provided me with the opportunity to act as a bridge between departments, overseeing crucial responsibilities essential to the company's operations. By participating in this role, I not only deepened my understanding of corporate finance but also had the chance to interact with various departments, gaining insights into their respective roles and honing my skills in cross-departmental coordination.
 
-A significant part of my role also involved data analysis and reporting. Using Excel, I created detailed weekly business performance reports utilizing tools such as VLOOKUP, pivot tables, and various formulas. These reports were based on datasets containing over 10,000 rows of data, highlighting key metrics and trends. This analytical work not only sharpened my proficiency in Excel but also enabled me to provide actionable insights to the finance team, aiding in strategic decision-making processes.
+As a Business Operations Assistant, one of my primary responsibilities was data analysis and reporting. Using Excel, I created detailed weekly business performance reports utilizing VLOOKUP, pivot tables, and various formulas. These reports focused primarily on accounts receivable, based on a dataset containing over 10,000 rows of data, highlighting key metrics and trends. Through this analytical work, I not only enhanced my Excel proficiency but also provided actionable insights to the finance team, facilitating strategic decision-making processes and sharpening my attention to detail.
 
-Moreover, I actively contributed to enhancing operational efficiency within the department. By identifying areas for improvement and suggesting process optimizations, I helped streamline workflows and reduce redundancy, ultimately contributing to overall productivity.
+Another significant aspect of my role involved ensuring compliance through meticulous review of client agreements and orders. This required attention to detail and a deep understanding of contractual obligations. By verifying the accuracy and completeness of these documents through phone calls and emails with clients, I contributed to maintaining the integrity of our client relationships. This experience taught me how to effectively manage client relationships and efficiently gather necessary information in a prompt and courteous manner.
 
-Reflecting on my internship experience, I am grateful for the opportunity to have worked in a role that allowed me to apply my academic knowledge in a real-world context. The hands-on experience I gained in ensuring compliance, supporting sales activities, and conducting data analysis has been invaluable. It has reinforced my passion for finance and operations, providing a solid foundation for my future career aspirations.
+Furthermore, I was responsible for inputting crucial data into the ERP (Enterprise Resource Planning) system to maintain data accuracy and coordinate between supply chain, sales, and client services to ensure timely deliveries.
 
-In conclusion, my internship as a Business Operations Assistant in the Finance Department was a fulfilling and educational experience. It equipped me with practical skills, deepened my understanding of corporate finance operations, and confirmed my interest in pursuing a career in this field. I am excited to build upon this foundation as I continue to grow both personally and professionally in the world of business operations.
+I also assisted in preparing sales presentations and directly communicating with clients, requiring effective communication skills and efficient management of information. Through these efforts, I ensured that all stakeholders received comprehensive information and that the sales process remained efficient and smooth.
+
+Additionally, I actively contributed to enhancing departmental operational efficiency by identifying areas for improvement and proposing process optimization suggestions. For example, during a review of contracts, I identified a need for a simple document to store key contract information. Upon discussion with my manager, who fully supported the idea, I spent a week reviewing over 30 contracts totaling more than 100 pages, recorded key information in an Excel spreadsheet, identified unclear terms in existing contracts, discussed them with the legal department to avoid future disputes. Finally, I uploaded this document to the team's shared documents, ensuring accessibility and significantly enhancing the efficiency of the sales, finance, and legal departments.
+
+Reflecting on my internship experience, I am grateful for the opportunity to apply academic knowledge in a role that allowed me to work in a real-world environment. The practical experience I gained in ensuring compliance, supporting sales activities, and conducting data analysis was invaluable. It deepened my understanding of corporate financial operations and affirmed my affinity for numbers, client support, and excellent cross-departmental coordination skills, leading me to choose Business Analytics and Data Science as my minor.
+
+In summary, my internship as a Business Operations Assistant in the Finance Department at Hanshow was enriching and highly educational. It equipped me with practical skills, deepened my understanding of corporate financial operations, and confirmed my strengths and suitable career path.
+
+
+
+
+
 
