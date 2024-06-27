@@ -5,7 +5,7 @@ featured_image: "/images/UvA.png"
 tags: [Education & Work]
 title: "My UvA Journey"
 ---
-Keywords: Business Communication, Information Dissemination, Data Science. Python, Business Analytics
+Keywords: Business Communication, Information Dissemination, Data Science, Python, Business Analytics
 
 Between 2021 and 2024, I completed my my Bachelor of Science in Communication Science and pursued a minor in Business Analytics and Data Science at Vrije Universiteit Amsterdam. <!--more--> During my three years at university, I spent a year and a half working full-time. If you want to know more about my work experience, please click the "Education & Work" tag at the bottom or the link on the right to know more about my experience.
 
