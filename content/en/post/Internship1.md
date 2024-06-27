@@ -1,5 +1,5 @@
 ---
-date: 2024-06-20T11:13:32-04:00
+date: 2024-05-20T11:13:32-04:00
 description: "It was so fascinating working in a startup finance department and acting as a bridge between teams!"
 featured_image: "/images/Intern1.png"
 tags: [Education & Work]
