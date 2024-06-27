@@ -1,5 +1,5 @@
 ---
-date: 2024-06-17T11:13:32-04:00
+date: 2024-06-01T11:13:32-04:00
 description: "How to translate business needs into actionable tasks?"
 featured_image: "/images/AI.png"
 tags: [Education & Work]
