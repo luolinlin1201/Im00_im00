@@ -7,7 +7,7 @@ title: "Research Assistant at UvA: Greenwashing & Sustainability"
 ---
 Keywords: Sustainable marketing strategies, greenwashing, sustainability
 
-In today's digital age, social media platforms like Instagram have become powerful tools for brands and influencers to showcase their products and ideologies. In recent years, there has been a growing trend in promoting sustainability and environmental practices. <!--more--> However, there exists a phenomenon known as greenwashing, where companies and influencers may exaggerate or mislead their environmental commitments, leading consumers to develop distorted perceptions of products and brands.
+In today's digital age, social media platforms like Instagram have become powerful tools for brands and influencers to showcase their products and ideologies. <!--more--> In recent years, there has been a growing trend in promoting sustainability and environmental practices. However, there exists a phenomenon known as greenwashing, where companies and influencers may exaggerate or mislead their environmental commitments, leading consumers to develop distorted perceptions of products and brands.
 
 In my participation in the University of Amsterdam's research on Instagram greenwashing, I conducted an in-depth investigation into how influencers employ sustainable branding strategies. Some use direct textual information, while others utilize symbolic cues such as sounds of forests and backgrounds to create a sustainable image for consumers. We also analyzed the comments on these posts and their reactions to these strategies. Through studying a wide range of influencer content, our aim is to reveal the authenticity of sustainability claims and explore how influencer behavior shapes public perception.
 
