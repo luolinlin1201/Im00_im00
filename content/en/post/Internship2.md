@@ -3,11 +3,11 @@ date: 2024-06-01T11:13:32-04:00
 description: "How to translate business needs into actionable tasks?"
 featured_image: "/images/AI.png"
 tags: [Education & Work]
-title: "Internship: Product Proposition Intern at Versuni (Philips DA)"
+title: "Internship: Product Proposition Intern at Versuni (Philips Domestic Appliances)"
 ---
 Keywords: App, AI, Technology, Product/Project Management, Marketing, Startup Category, Fast-Paced Environment, Product Strategy
 
-In May 2024, I completed a 10-month internship at Versuni (Philips Domestic Appliances). As the only member apart from the category leader, this internship was filled with challenges and opportunities for growth. <!--more--> During this period, I had the privilege of following the development cycle of entry-level robot vacuum cleaners, delving into various aspects of product management, marketing strategy, and enhancing user experience. This experience contributed to significant milestones for the category and provided me with valuable experience and lessons.
+In May 2024, I completed a 10-month internship at Versuni (Philips DA). As the only member apart from the category leader, this internship was filled with challenges and opportunities for growth. <!--more--> During this period, I had the privilege of following the development cycle of entry-level robot vacuum cleaners, delving into various aspects of product management, marketing strategy, and enhancing user experience. This experience contributed to significant milestones for the category and provided me with valuable experience and lessons.
 
 ## Strategic Development and Roadmap Formulation
 A highlight of my internship was the opportunity to develop comprehensive strategies, roadmaps, and marketing toolkits for entry-level products. We used the "STP" model (Segmentation, Targeting, and Proposition) as the core for business case research. Initially, we conducted market research, analyzed competitors' product portfolios, and regional consumer purchasing trends, evaluating our strengths, weaknesses, and existing resources. This led to expanding the matrix with both high-end and low-end products. Tailoring marketing language and strategies to match the brand and product tone ensured our marketing materials effectively conveyed the intended message to customers.
